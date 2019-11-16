@@ -1,3 +1,5 @@
+***You have to first install sdl2,sdl2_ttf and sdl2_mixer in your computer***
+
 1) Please run the code in the terminal after going to the game folder "HELI" from the terminal:
    g++ source.cpp -w -lSDL2 -lSDL2_ttf -lSDL2_mixer && ./a.out
 2) Enjoy the game.
