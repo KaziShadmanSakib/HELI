@@ -1,0 +1,7 @@
+1) Please run the code in the terminal after going to the game folder "HELI" from the terminal:
+   g++ source.cpp -w -lSDL2 -lSDL2_ttf -lSDL2_mixer && ./a.out
+2) Enjoy the game.
+3) See your score in the terminal after quiting the game.
+4) See highscores in the highscore.txt file.
+
+Thank you <3
