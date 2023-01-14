@@ -1,3 +1,9 @@
+# HELI
+
+* The game is named HELI (related to helicopter or spaceship) which is a 2D space survival shooting game, where the player has to survive in the space by shooting the obstacles.
+
+* Tools and Technology: C/C++, SDL/SDL2.
+
 ***You have to first install sdl2,sdl2_ttf and sdl2_mixer in your computer***
 
 1) Please run the code in the terminal after going to the game folder "HELI" from the terminal:
